@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'https://github.com/michaeljgrieshaber/cleanfolio',
+  title: 'MG.',
 }
 
 const about = {
@@ -23,7 +23,7 @@ const projects = [
   {
     name: 'The Docks',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'The Docks is an open market place where users can search and shop for items to borrow. Users can also login and post their own items for rent.',
     stack: ['React', 'MongoDB'],
     sourceCode: 'https://github.com/MattMoyka/The-Dock',
     livePreview: 'https://thedocks.netlify.app/',
@@ -31,15 +31,15 @@ const projects = [
   {
     name: 'Vote a Joke',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      "Vote a Joke is a site where anyone can post a joke. Then it's up to the other users of the site to vote if it's funny or not",
     stack: ['React', 'Airtable'],
     sourceCode: 'https://github.com/michaeljgrieshaber/voteAJoke',
     livePreview: 'https://vote-a-joke.netlify.app/',
   },
   {
-    name: 'Conspiract Peerist',
+    name: 'Conspiracy Peerist',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'Conspiracy Peerist is a blog site that allows users to view and comment on others conspiracy theories. Users can also create their own posts.',
     stack: ['React', 'Ruby on Rails'],
     sourceCode: 'https://github.com/michaeljgrieshaber/conspiracyTheories',
     livePreview: 'https://goofy-hermann-f165e8.netlify.app/',
