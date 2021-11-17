@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://github.com/michaeljgrieshaber/cleanfolio',
+  homepage: 'https://www.michaelgrieshaber.com/',
   title: 'MG.',
 }
 
@@ -61,7 +61,7 @@ const skills = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'MichaelJGrieshaber',
+  email: 'MichaelJGrieshaber@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
