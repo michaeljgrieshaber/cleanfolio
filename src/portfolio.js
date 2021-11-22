@@ -10,7 +10,7 @@ const about = {
   role: 'A Software Engineer.',
   description:
     'I am a software engineer with years of experience working on cross-disciplinary teams. I have found my success comes from an ability to follow-through, working until the problem is solved, and a charismatic approach to teamwork. I strive  to help others solve their problems by getting to the root of the issue and finding a solution that is both agreeable and efficient.',
-  resume: 'https://drive.google.com/file/d/1UVBnqQbiJmgh1dZgZrf4dlmyz4NLSJav/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1vzoP7neDfGWe199AEsCLsGTMcSe9Fc0S/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/michael-grieshaber-23907867/',
     github: 'https://github.com/michaeljgrieshaber',
