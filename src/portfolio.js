@@ -6,8 +6,8 @@ const header = {
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'Michael Grieshaber',
-  role: 'Software Engineer',
+  name: 'Michael Grieshaber.',
+  role: 'A Software Engineer.',
   description:
     'I am a software engineer with years of experience working on cross-disciplinary teams. I have found my success comes from an ability to follow-through, working until the problem is solved, and a charismatic approach to teamwork. I strive  to help others solve their problems by getting to the root of the issue and finding a solution that is both agreeable and efficient.',
   resume: 'https://drive.google.com/file/d/1UVBnqQbiJmgh1dZgZrf4dlmyz4NLSJav/view?usp=sharing',
@@ -23,7 +23,7 @@ const projects = [
   {
     name: 'The Docks',
     description:
-      'The Docks is an open market place where users can search and shop for items to borrow. Users can also login and post their own items for rent.',
+      'The Docks is a site 3 other developers and I built. It allows users to login and post items they want to offer them for rent. The site has user authenticaion and full CRUD.',
     stack: ['React', 'MongoDB'],
     sourceCode: 'https://github.com/MattMoyka/The-Dock',
     livePreview: 'https://thedocks.netlify.app/',
@@ -31,7 +31,7 @@ const projects = [
   {
     name: 'Vote a Joke',
     description:
-      "Vote a Joke is a site where anyone can post a joke. Then it's up to the other users of the site to vote if it's funny or not",
+      "Vote a Joke is a site that used a 'no code' back end called Airtable. Users can up/down vote other users jokes and even post their own jokes.",
     stack: ['React', 'Airtable'],
     sourceCode: 'https://github.com/michaeljgrieshaber/voteAJoke',
     livePreview: 'https://vote-a-joke.netlify.app/',
@@ -39,7 +39,7 @@ const projects = [
   {
     name: 'Conspiracy Peerist',
     description:
-      'Conspiracy Peerist is a blog site that allows users to view and comment on others conspiracy theories. Users can also create their own posts.',
+      'Conspiracy Peerist is a blog site. Any user can view posts and comments. Once a user logs in, they can create/edit/delete their own comments.',
     stack: ['React', 'Ruby on Rails'],
     sourceCode: 'https://github.com/michaeljgrieshaber/conspiracyTheories',
     livePreview: 'https://goofy-hermann-f165e8.netlify.app/',
