@@ -42,7 +42,7 @@ const projects = [
       'Conspiracy Peerist is a blog site. Any user can view posts and comments. Once a user logs in, they can create/edit/delete their own comments.',
     stack: ['React', 'Ruby on Rails'],
     sourceCode: 'https://github.com/michaeljgrieshaber/conspiracyTheories',
-    livePreview: 'https://goofy-hermann-f165e8.netlify.app/',
+    livePreview: 'https://conspiracy-peerist.netlify.app/',
   },
 ]
 
