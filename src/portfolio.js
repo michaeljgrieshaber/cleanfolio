@@ -9,10 +9,11 @@ const about = {
   name: 'Michael Grieshaber.',
   role: 'A Software Engineer.',
   description:
-    'I am a software engineer with years of experience working on cross-disciplinary teams. I have found my success comes from an ability to follow-through, working until the problem is solved, and a charismatic approach to teamwork. I strive  to help others solve their problems by getting to the root of the issue and finding a solution that is both agreeable and efficient.',
-  resume: 'https://drive.google.com/file/d/1vzoP7neDfGWe199AEsCLsGTMcSe9Fc0S/view?usp=sharing',
+    'Software Engineer delivering solutions utilizing a variety of coding languages across web and mobile applications. Experience working on cross-functional teams. Problem solving, collaboration, and executing on projects and initiatives, while leveraging root cause analysis to inform direction. Lead discovery meetings to identify requirements and prioritize project scope of work. Excellent follow-through, critical thinking, and analytical skills, while bringing a charismatic and empathetic approach to teamwork and project collaboration.',
+  resume:
+    'https://drive.google.com/file/d/16mIBovRqQiQMW0B7HU_YI6dge0CSsvzS/view?usp=sharing',
   social: {
-    linkedin: 'https://www.linkedin.com/in/michael-grieshaber-23907867/',
+    linkedin: 'https://www.linkedin.com/in/michael-grieshaber/',
     github: 'https://github.com/michaeljgrieshaber',
   },
 }
@@ -44,6 +45,14 @@ const projects = [
     sourceCode: 'https://github.com/michaeljgrieshaber/conspiracyTheories',
     livePreview: 'https://conspiracy-peerist.netlify.app/',
   },
+  {
+    name: 'Five Somewhere',
+    description:
+      'Five Somewhere shows visitors their current time/timezone and it shows them every timezone in the world where it is 5PM',
+    stack: ['React'],
+    sourceCode: 'https://github.com/michaeljgrieshaber/fiveSomewhere',
+    livePreview: 'https://fivesomewhere.netlify.app/',
+  },
 ]
 
 const skills = [
@@ -56,7 +65,9 @@ const skills = [
   'Ruby',
   'Rails',
   'Postgresql',
-
+  'MongoDB',
+  'Visual Basic Application',
+  'Express',
 ]
 
 const contact = {
